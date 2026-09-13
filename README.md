@@ -90,6 +90,11 @@ Full markdown in task descriptions and column headers:
 - **Zoom level** (`Ctrl+Scroll`) — 60% to 170%, badge shows current level
 - Collapsible sidebar
 
+### Local-first online sync
+- Ability to use Git (GitHub, GitLab, Gitea etc) to sync up files
+- Allows for multi users to share same boards
+- Conflict management (beta)
+
 ---
 
 ## Data Format
